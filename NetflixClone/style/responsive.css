@@ -1,0 +1,14 @@
+@media screen and (max-width: 850px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
+
+@media screen and (max-width: 1200px){
+    .descricao{
+        width: 40%;
+    }
+
+}
