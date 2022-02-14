@@ -1,2 +1,2 @@
 # Desafio
-Desafio de projeto sobre Git/Github
+Aqui estão todos os meus projetos durante o bootcamp da Take Blip na DIO
